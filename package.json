@@ -1,0 +1,13 @@
+{
+  "name": "rest-ful",
+  "version": "1.0.0",
+  "description": "RestFul",
+  "main": "app.js",
+  "start": "node app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mssql": "^6.2.0"
+  }
+}
